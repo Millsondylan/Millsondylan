@@ -2,8 +2,8 @@
 
 ## About Me
 - Builder of AI agent tooling with a focus on terminal-first workflows, resilient API integrations, and fast feedback loops.
-- 2025 highlights include 28 commits to `opencode` (Oct 27-30) landing Claude 4.5 validation, provider cleanup, and model management improvements.
-- Led 49 packaging hardening commits for `homebrew-forge` (Oct 26-27), stabilizing installation paths and cryptography dependencies.
+- 2025 highlights include 29 commits to `opencode` (Oct 27-30) landing Claude 4.5 validation, provider cleanup, and model management improvements.
+- Led 17 packaging hardening commits for `homebrew-forge` (Oct 26-27), stabilizing installation paths and cryptography dependencies.
 - Advocate for measurable delivery: every push ships with automated matrix tests and GoReleaser builds wired into GitHub Actions.
 
 ## Skills
