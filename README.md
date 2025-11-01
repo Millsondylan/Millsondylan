@@ -14,7 +14,6 @@
 - **Focus Areas**: AI agent orchestration, secure credential flows, TUI/CLI UX, mobile assistants, release engineering
 
 ## Projects
-- **[forge](https://github.com/Millsondylan/forge)** · 2025 · Python CLI for self-managing agents featuring a full-screen studio, model routing, and Homebrew distribution. Integrates Rich, Click, and Anthropic SDK for rapid operator workflows.
 - **Private · JOURNAL_CURRENT** · 2025 · Cross-platform journaling super-app built with Flutter, Supabase, and Kotlin native bridges. Latest sprint automated environment checks, enforced Stack Auth security, and stabilized staging deploys.
 - **Private · AI_GLASSES** · 2025 · Multimodal wearable assistant blending a Python edge pipeline with React Native mobile surfaces; October releases added structured logging, consent screens, and summarization upgrades.
 - **Private · ALGO** · 2025 · FastAPI trading automation stack with JWT-secured auth, Ruff/MyPy enforced CI, and containerized deploy targets; current focus is stabilizing pipelines after auth refactors.
